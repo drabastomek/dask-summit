@@ -9,4 +9,5 @@ pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
 jupyter nbextension enable execute_time/ExecuteTime
 
-pip install fugue-blazing==0.0.3.dev1 dask-sql==0.3.3
+pip install fugue-blazing==0.0.3 dask-sql==0.3.6
+
